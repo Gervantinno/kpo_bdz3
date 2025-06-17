@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\1\AppData\Local\JetBrains\Rider2025.1\resharper-host\temp\Rider\vAny\CoverageData\_OnlineShopSystem.1367571050\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02f1636a_002D8cee_002D444c_002Dbd72_002D7a868caf7ac2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Deposit_InvalidAmount_ReturnsBadRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=567e289e_002D4ada_002D49c1_002D9042_002D4f8db859f081/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentsControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6138CF0F-0E24-4E1E-87B2-EEA166438193::net7.0::PaymentsService.Tests.Controllers.PaymentsControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b436413_002D0c63_002D4342_002D8d0f_002D0e355710bf68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateOrder_ValidRequest_ReturnsCreatedResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9F816A54-133A-4A81-83B4-0F254967070C::net7.0::OrdersService.Tests.Controllers.OrdersControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6138CF0F-0E24-4E1E-87B2-EEA166438193::net7.0::PaymentsService.Tests.Controllers.PaymentsControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3AD4E8A9-0579-4973-A939-8B467A7E9001::net7.0::ApiGateway.Tests.Controllers.ApiGatewayControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f9cdc007_002Dff9f_002D4c17_002Db72c_002D68b3cdc426e6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OrdersControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9F816A54-133A-4A81-83B4-0F254967070C::net7.0::OrdersService.Tests.Controllers.OrdersControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3AD4E8A9-0579-4973-A939-8B467A7E9001::net7.0::ApiGateway.Tests.Controllers.ApiGatewayControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6138CF0F-0E24-4E1E-87B2-EEA166438193::net7.0::PaymentsService.Tests.Controllers.PaymentsControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6138CF0F-0E24-4E1E-87B2-EEA166438193::net7.0::PaymentsControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
